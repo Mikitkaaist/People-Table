@@ -1,9 +1,6 @@
-# React TypeScript Starter Pack
+[DEMO-LINK]https://mikitkaaist.github.io/people-table/
+People Table site was written in React, React DOM, React Router, TypeScript, SASS
 
-To use this template click `Use this template`
+There was also work with api and json
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+The project was made from a layout - People-table-advanced
